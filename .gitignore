@@ -1,0 +1,10 @@
+*project
+*coder*
+# prebuilt/lib
+# prebuilt/include
+# prebuilt/share
+# prebuilt/ffmpeg
+src/*o
+*.wav
+*.ts
+awt
